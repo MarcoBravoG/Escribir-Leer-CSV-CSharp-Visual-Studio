@@ -1,0 +1,15 @@
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe.config
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.pdb
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csprojAssemblyReference.cache
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.exe
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.pdb
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe.config
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.pdb
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csproj.AssemblyReference.cache
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csproj.CoreCompileInputs.cache
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.exe
+C:\Users\MARCO BRAVO\Downloads\Escribir-Leer-CSV-CSharp-Visual-Studio-master\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.pdb
